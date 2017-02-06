@@ -12,6 +12,5 @@ Used the SUPER POWER of Git. On Learn-Github I clicked on concepts.txt and then 
 I was able to see the changes that were made in the last commit
 New lines that are added in the last commit are highlighted in green and have a + sign in front of the line
 While lines that were edited or removed appear highlighted in red and have the - sign in front of them
-Also while in this commit screen I could see the unique ID of the commit. This string of letter and numbers is called Commit Hash.
-a
+Also while in this commit screen I could see the unique ID of the commit. This string of letter and numbers is called Commit Hash. You can see the same string appear in the URL as well!
 
