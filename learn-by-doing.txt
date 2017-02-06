@@ -14,3 +14,30 @@ New lines that are added in the last commit are highlighted in green and have a 
 While lines that were edited or removed appear highlighted in red and have the - sign in front of them
 Also while in this commit screen I could see the unique ID of the commit. This string of letter and numbers is called Commit Hash. You can see the same string appear in the URL as well!
 
+
+-------Tutorial 2-------
+
+Go to the Learn-Github repo, then --> learn-by-doing.txt
+Underneath the Code menu item you'll see a button that says Branch: master
+Click on it. Now you'll be able to create a new branch, name it Tutorial 2
+Automatically the current branch you're in will change to Branch: tutorial-2
+Start experimenting. Add the steps of Tutorial 2 in learn-by-doing.txt
+Afterwards add a comment for the "Commit changes" section
+Select "Commit directly to the Tutorial-2 branch"
+The second option assumes that after doing the editing you realize that this branch was a GREAT IDEA, 
+so it's better to start merging this branch with the master branch.
+Click the "Commit changes" button.
+
+---Continues---
+
+Now go back to the master branch and you'll see that it HAS NOT CHANGED. It contains only Tutorial 1
+*** As you can see branches represent different states/possibilities of the code.(analogy with quantum physics)
+I decide that adding the second tutorial to this file was a good idea, so I decide to merge it to the master branch
+First I'll save this new commit into the branch and then...
+
+Go back to the Repo and you'll see that a new line(highlighted in yellow) has been added to the interface. It says that 
+a branch was created and it has a button "Compare & Pull request". Click this button. 
+Now the pull request has started. Add some comments, "Create pull request" and wait for GitHub to check if your pull request is valid.
+*** Usually when this branch has edited/added code in different lines of the master branch, there will be no problems to merge the edits. However if the branch edits some code in an existing line of the master there might be some issues. 
+Press "Confirm Merge"
+Go to repo --> Graphs --> Network to see the visual representation of the merging.
