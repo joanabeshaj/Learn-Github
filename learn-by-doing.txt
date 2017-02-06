@@ -1,0 +1,17 @@
+Learning by implementing these tutorials: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+
+-------Tutorial 1-------
+
+Created the repository "Learn-Github"
+Added the file called concepts.txt 
+Added some content into concepts.txt
+Commited the new file
+Made a change into the file by adding the concept of Fork
+Commited the change
+Used the SUPER POWER of Git. On Learn-Github I clicked on concepts.txt and then on the button that appeared called History
+I was able to see the changes that were made in the last commit
+New lines that are added in the last commit are highlighted in green and have a + sign in front of the line
+While lines that were edited or removed appear highlighted in red and have the - sign in front of them
+Also while in this commit screen I could see the unique ID of the commit. This string of letter and numbers is called Commit Hash.
+a
+
