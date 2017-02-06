@@ -8,6 +8,7 @@ Commit --> is a "screenshot" of your code at a specific time. Think of a commit 
 
 Hash --> is a unique id of each commit you've made
 
-Fork --> Is the act of "copying" the repository of someone else into your account. If user2 likes the x repository of user1
+Fork --> is the act of "copying" the repository of someone else into your account. If user2 likes the x repository of user1
 and wants to keep writing or improving its code, he can fork x and work separately on the code without "damaging" it.
 
+Branches --> you can think of them as different rails(tracks) of your code. Let's say you want to make some changes to a certain file of the repo but you're not sure if this is a good idea - you don't know if you are going to keep these changes in the future or not. In order to avoid a normal(commit) you creat a new branch(code experiment). Later on if you decide that this experiment was a good idea, you can merge the changes to the master branch of your repo.
