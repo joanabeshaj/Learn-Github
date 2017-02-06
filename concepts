@@ -1,0 +1,10 @@
+Git --> a version control software
+
+Github --> a website that allows you to perform version control into the files you are working on
+
+Repository or Repo --> is a project that can have one or more files  
+
+Commit --> is a "screenshot" of your code at a specific time. Think of a commit as a "Save" that you apply to the file.
+
+Hash --> is a unique id of each commit you've made
+
