@@ -40,4 +40,36 @@ a branch was created and it has a button "Compare & Pull request". Click this bu
 Now the pull request has started. Add some comments, "Create pull request" and wait for GitHub to check if your pull request is valid.
 *** Usually when this branch has edited/added code in different lines of the master branch, there will be no problems to merge the edits. However if the branch edits some code in an existing line of the master there might be some issues. 
 Press "Confirm Merge"
-Go to repo --> Graphs --> Network to see the visual representation of the merging.
+Go to the Repo --> Graphs --> Network to see the visual representation of the merging.
+
+
+-------Tutorial 3-------
+
+In this tutorial we are going to learn about Forks and Pull requests
+
+---How to Fork a Repository---
+Go to the account of App Academy and click on their repo called "post-acceptance-prepwork"
+Open the repository and you'll see the button Fork on the top right corner. Click it and let GitHub do the magic.
+In your account you'll see you have this new repo, and underneet its name it says "forked from appacademy/post-acceptance-prepwork"
+"post-acceptance-prepwork" now has all the attributes that your own repositories have.
+You can create a new branch called "test" in this repo and add some suggestions/edits to one of the files.
+When you save the change you can either choose *Commit directly to the test branch* to save the commit in your personal account, OR you can choose *Create a new branch for this commit and start a Pull Request*. You'll choose the second option only if you are sure you are adding something of value that App Academy will appreciate and maybe merge your code with the one they already have.
+Click on the option to see what happens. You'll start a pull request which Github names as *joana-beshaj-patch-1*, and the  
+button at the end will change from *Commit Changes* to *Propose file change*
+If App Academy opens their repository on the top left corner in the button that says *Pull Requests* they'll see that they recieved a pull request and they'll decide to accept it or not. If they accept it they'll do *Merge Pull Request* and *Confirm Merge*
+
+Note: Since I hadn't yet read this article https://help.github.com/articles/what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility/ I thougt that in case the user App Academy deleted or made private one of their repositories 
+I'd loose acces to it(however, this won't happen). Read for more.
+
+---How to Fork a Gist---
+
+I found out that the user "hofmannsven" has a great gist called "Using Git" which serves as a short manual for GitHub.
+I really liked it so in order to quickly access its content I thought to "copy" its content into my Github account. The 
+way to do that is to Fork the GIST.
+In the top right corner you'll see a button called *Fork*, click on it and GitHub will automatically create a new gist
+into your account that contains everything from "Using Git".
+Note: This won't be added to your Git repositories!!! 
+
+*** To access the Gists you've created or forked from others, go to your GitHub profile and in the main Menu(Top Right) you can see a button called *Gists*. Click on it.
+
+
