@@ -15,7 +15,7 @@ While lines that were edited or removed appear highlighted in red and have the -
 Also while in being inside the commit screen, you could see the unique ID of the commit. This string of letter and numbers is called Commit Hash. You can see the same string appear in the URL as well!
 
 
--------Tutorial 2-------
+-------Tutorial 2, Part 1-------
 
 Go to the Learn-Github repo, then --> learn-by-doing.txt
 Underneath the *Code* menu item you'll see a button that says *Branch: master*
@@ -41,3 +41,13 @@ Now the pull request has started. Add some comments, "Create pull request" and w
 *** Usually when this branch has edited/added code in different lines of the master branch, there will be no problems to merge the edits. However if the branch edits some code in an existing line of the master there might be some issues. 
 Press "Confirm Merge"
 Go to repo --> Graphs --> Network to see the visual representation of the merging.
+
+
+-------Tutorial 2, Part 2-------
+
+In Tutorial 2 we saw how to merge a branch to the master branch that was left unchanged. But what if we create a new branch and then keep on working on the master - can we merge the new branch with the master branch after it has been edited? 
+Where will the code of the new branch get added? Lets find out!
+
+Create a new branch called Tut 2 Part 2
+Add some text to it --> *Commit directly to the Tut-2-Part-2 branch* --> *Commit changes*
+Then keep on adding Tutorial 3 to the master branch
