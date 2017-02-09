@@ -99,8 +99,6 @@ Created the test branch to see how a normal merge will work
 "Be aware of your actions."
 
 
-Created the test branch to see how a normal merge will work
-
 Second commit on branch
 
 Third commit on branch
