@@ -54,6 +54,8 @@ Then keep on adding Tutorial 3 to the master branch
 
 Go to the Repo --> Graphs --> Network to see the visual representation of the merging.
 
+!!!IMPORTANT!!! The only problem in this case was that I made a mistake and instead of merging the new branch to the master I did the opposite, I marged master to the branch.
+
 
 -------Tutorial 3-------
 
