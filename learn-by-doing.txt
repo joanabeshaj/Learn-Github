@@ -86,6 +86,10 @@ Note: This won't be added to your Git repositories!!!
 
 *** To access the Gists you've created or forked from others, go to your GitHub profile and in the main Menu(Top Right) you can see a button called *Gists*. Click on it.
 
+------- Experiment -----------
+
+Created the test branch to see how a normal merge will work
+
 ------------- First TEST Commit ------------------
 
 "Be aware of your thoughts."
@@ -94,3 +98,9 @@ Note: This won't be added to your Git repositories!!!
 
 "Be aware of your actions."
 
+
+Created the test branch to see how a normal merge will work
+
+Second commit on branch
+
+Third commit on branch
