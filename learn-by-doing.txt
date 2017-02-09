@@ -91,3 +91,5 @@ Note: This won't be added to your Git repositories!!!
 Created the test branch to see how a normal merge will work
 
 Second commit on branch
+
+Third commit on branch
