@@ -113,3 +113,5 @@ How to solve an issue when you are doing a commit?(So you don't have to waste ti
 
 Just make the edit in the file and at the TITLE of "Commit changes" use the word **fixed** and the id of the issue
 
+!!!MISTAKE!!! The word that closes the issue is "fixes"
+
