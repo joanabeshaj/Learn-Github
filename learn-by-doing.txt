@@ -107,5 +107,9 @@ Third commit on branch
 
 Adding this line for demonstration purposes(it will serve as a solution for the submitted issue)
 
-How do you refer(link) to issues?
+How do you refer(link) to issues? By using the specific number they have assigned, for example my second issue has number #5
+
+How to solve an issue when you are doing a commit?(So you don't have to waste time by going to the issue page)
+
+Just make the edit in the file and at the TITLE of "Commit changes" use the word **fixed** and the id of the issue
 
