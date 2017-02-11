@@ -102,3 +102,10 @@ Created the test branch to see how a normal merge will work
 Second commit on branch
 
 Third commit on branch
+
+------- Tutorial 4 -------
+
+Adding this line for demonstration purposes(it will serve as a solution for the submitted issue)
+
+How do you refer(link) to issues?
+
